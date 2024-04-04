@@ -9,7 +9,7 @@
 </h3>
 
 This is a simple python class <a href="./ImageElasticDeformer.py">ImageElasticDeformer</a> to deform an image 
-by using scipy gaussian filter, map_coordinates, and numpy meshgrid functions.<br?
+by using scipy gaussian filter, map_coordinates, and numpy meshgrid functions.<br>
 It is based on the Python code in the following kaggle web-site.<br>
 <br>
 https://www.kaggle.com/code/jiqiujia/elastic-transform-for-data-augmentation/notebook
