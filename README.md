@@ -31,7 +31,8 @@ scipy.ndimage.gaussian_filter(input, sigma, order=0, output=None, mode='reflect'
 </pre>
 , <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.map_coordinates.html">scipy map_coordinates</a>
 <pre>
-scipy.ndimage.map_coordinates(input, coordinates, output=None, order=3, mode='constant', cval=0.0, prefilter=True)
+scipy.ndimage.map_coordinates(input, coordinates, output=None, order=3, 
+   mode='constant', cval=0.0, prefilter=True)
 </pre>
 , and <a href="https://numpy.org/doc/stable/reference/generated/numpy.meshgrid.html">numpy meshgrid</a>.
 <pre>
