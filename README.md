@@ -14,7 +14,6 @@ That class is based on the following code.<br>
 https://github.com/MareArts/Elastic_Effect/blob/master/Elastic.py<br>
 <br>
 See also the following kaggle web-site.<br>
-<br>
 https://www.kaggle.com/code/jiqiujia/elastic-transform-for-data-augmentation/notebook
 <br>
 <br>
