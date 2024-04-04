@@ -1,7 +1,7 @@
 <h2> Image-Deformation-Tool (2024/04/04)</h2>
 
-<a href="#1">1, ImageElasticDeformer</a><br>
-<a href="#2">2, Run ImageElasticDeformer</a><br>
+<a href="#1">1. ImageElasticDeformer</a><br>
+<a href="#2">2. Run ImageElasticDeformer</a><br>
 <a href="#3">3. Seeing Is Believing</a><br>
 <br>
 <h3> 
