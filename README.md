@@ -45,7 +45,7 @@ You can use this class to train a segmentation model for your online dataset aug
 Image deformation can be time-consuming when used for online dataset augmentation, which will slow down the training-speed.
 <br>
 For example, in the Python script <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API/blob/main/src/ImageMaskAugmentor.py">ImageMaskAugmentor.py</a>, we have implemented an elastic_transorm method similar to this Deformer class
-to augment the images and masks in a trainingu process of a segmentation model.<br>
+to augment the images and masks in a training process for a segmentation model.<br>
 
 <br>
 <h3>
