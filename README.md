@@ -22,7 +22,7 @@ created using a grid-line-based deformation algorithm.<br>
 Please see also our <a href="https://github.com/sarah-antillia/Image-Distortion-Tool">Image-Distortion-Tool</a>
 <br>
 <br>
-In ImageElasticDeformerb class, we use the following scipy and numpy functions.<br>
+In ImageElasticDeformer class, we use the following scipy and numpy functions.<br>
  
 <a href="https://docs.scipy.org/doc/scipy/reference/generated/scipy.ndimage.gaussian_filter.html">scipy gaussian_filter</a>
 <pre>
